@@ -4,15 +4,15 @@
     <div class="container">
         <div class="hero-unit">
             <div id="welcome-hero">
-                <h1>See your town's budget.</h1>
+                <h1>See your city's budget.</h1>
 
                 <div class="home-column" id="home-col1" style=
                 "display:inline-block;">
-                    <p>Government budgets can be tough to understand, but now the Town of Arlington, Massachusetts is providing the next generation of accessibility in financial information that allows citizens to view, engage with, and discuss.</p>
+                    <p>Government budgets can be tough to understand, but now the City of Somerville, Massachusetts is providing the next generation of accessibility in financial information that allows citizens to view, engage with, and discuss.</p>
 
                     <div style="margin-top: 25px;">
                         <div>
-                            Arlington residents, see where your tax dollars
+                            Somerville residents, see where your tax dollars
                             go:
                         </div>
 
@@ -36,7 +36,7 @@
                 <div class="home-column" id="home-col2" style=
                 "display:inline-block; margin-left:5%;">
                     <div>
-                        Start learning about Arlington:
+                        Start learning about Somerville:
 
                         <div>
                             <a class='link' data-section="expenses" id='q1'
@@ -45,7 +45,7 @@
 
                         <div>
                             <a class='link' data-section="expenses" id='q2'
-                            style='color:#db4e86'>How much money does the Town spend on schools?</a>
+                            style='color:#db4e86'>How much money does the City spend on schools?</a>
                         </div>
 
                         <div>
