@@ -4,13 +4,13 @@
 
     <div class="homebutton" onclick='window.location = "/"'> 
       
-      <div style="font-size:32px;line-height:28px; display:inline-block"> Arlington, MA  </div>
+      <div style="font-size:32px;line-height:28px; display:inline-block"> Somerville, MA  </div>
       <img src="/img/logo@High.png" alt="avb-logo" width=24 height=24 />
    </div>
 
     <div id="navbar-links" style="line-height:30px;"> 
 
-     <div onclick='window.location = "/"' class="entry homebutton"> Town Budget, Visualized </div>
+     <div onclick='window.location = "/"' class="entry homebutton"> City Budget, Visualized </div>
 
      <div class="entry navbar-margin">
         <span class="menubutton section margin" data-section="revenues"><a href="/revenues">Revenues</a></span>

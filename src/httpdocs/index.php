@@ -4,8 +4,8 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta charset="utf-8">
-  <title>Arlington Visual Budget</title>
-  <meta name="description" content="An interactive tool to learn more about the town of Arlington, Massachusetts." />
+  <title>Somerville Visual Budget</title>
+  <meta name="description" content="An interactive tool to learn more about the town of Somerville, Massachusetts." />
 
  
   <?php
